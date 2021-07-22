@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 123,
-        "filename": "xtended-update.zip",
-        "id": "soon",
+        "datetime": 1626962668,
+        "filename": "Xtended-ysl-ota-20210722.zip",
+        "id": "282ffeb9143cb70c3fe4dae5ca4a7590",
         "romtype": "UNOFFICIAL",
-        "size": 123,
-        "url": "coming soon",
+        "size": 767117451,
+        "url": "https://ghostmirror.hitesh920.workers.dev/0://Xtended-ysl-ota-20210722.zip",
         "version": "xr"
       }
     ]
