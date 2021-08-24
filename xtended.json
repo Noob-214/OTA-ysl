@@ -1,13 +1,16 @@
 {
     "response": [
       {
-        "datetime": 1626962668,
-        "filename": "Xtended-ysl-ota-20210722.zip",
-        "id": "2FAE78EF8BEB168C1A652686D621F437",
+        "datetime": 1629656235,
+        "filename": "Xtended-ysl-ota-20210822.zip",
+        "id": "c946dc87296b4493f5a2042491b16778",
         "romtype": "UNOFFICIAL",
-        "size": 767117451,
-        "url": "https://ghostmirror.hitesh920.workers.dev/0://Xtended-ysl-ota-20210722.zip",
+        "size": 772063390,
+        "url": "http://mirror.dhruvchhura.workers.dev/Xtended-ysl-ota-20210822.zip",
         "version": "xr"
       }
     ]
   }
+
+
+
