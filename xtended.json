@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 1629656235,
-        "filename": "Xtended-ysl-ota-20210822.zip",
-        "id": "7737bcfa80a10d9c98973d42bc1d5885",
+        "datetime": 1633016840,
+        "filename": "Xtended-ysl-ota-20210930.zip",
+        "id": "2ZUCYT0J7NQK3P2D28119VNMYYNT4ITM",
         "romtype": "UNOFFICIAL",
-        "size": 772063390,
-        "url": "https://bot4.comfeegang.workers.dev/0:/Xtended-ysl-ota-20210822.zip",
+        "size": 780872998,
+        "url": "https://bot4.comfeegang.workers.dev/0:/Xtended-ysl-ota-20210930.zip",
         "version": "xr"
       }
     ]
